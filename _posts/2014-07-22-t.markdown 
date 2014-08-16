@@ -1,0 +1,17 @@
+---
+layout: project
+
+title:  "T"
+date:   2014-07-22 
+categories: 
+section: "art"
+subsection: "visual"
+postimagedir: 
+photocredit: 
+gallery:
+  &COVER 
+coverimage: *COVER
+---
+
+
+T was made in collaboration with Stella Veloce for ************** 
