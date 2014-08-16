@@ -10,7 +10,7 @@ subsection:
 postimagedir: reflektor4
 photocredit: 
 gallery:
-  &COVER reflektor_logo_webbig.jpg
+  &COVER reflektor_logo_webbig.jpg:
 
 coverimage: *COVER
 ---
