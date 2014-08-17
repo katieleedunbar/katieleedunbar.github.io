@@ -7,12 +7,19 @@ categories:
 section: "art"
 postimagedir: odlie
 gallery:
-  &COVER mpaopen 076.jpg  mpaopen 077.jpg  mpaopen 078.jpg  mpaopen 079.jpg  mpaopen 140.jpg  mpaopen 141.jpg  mpaopen 142.jpg  mpaopen 143.jpg
+  &COVER "mpaopen 076.jpg":
+  "mpaopen 077.jpg":
+  "mpaopen 078.jpg":
+  "mpaopen 079.jpg":
+  "mpaopen 140.jpg":
+  "mpaopen 141.jpg":
+  "mpaopen 142.jpg":
+  "mpaopen 143.jpg":
 
 coverimage: *COVER
 ---
 
-Anaïs Héraud & Katie Dunbar - for the MPA open May 2013
+Ana√Øs H√©raud & Katie Dunbar - for the MPA open May 2013
 Moving picture footage to come
 
 [MPA-B Site](www.mpa-b.org)
