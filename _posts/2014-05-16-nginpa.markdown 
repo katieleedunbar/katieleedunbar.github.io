@@ -9,11 +9,11 @@ subsection: "collective work"
 postimagedir: nginpampa
 photocredit: 
 gallery:
-  &COVER 1972537_741287552556330_769047953_n
-  13a.jpg:
-  13b.jpg:
-  13c.jpg:
-  13d.jpg:
+  &COVER 1972537_741287552556330_769047953_n.jpg:
+  13a.JPG:
+  13b.JPG:
+  13c.JPG:
+  13d.JPG:
   13e.jpg:
   13f.jpg:
   13g.jpg:
@@ -38,7 +38,6 @@ gallery:
   16r.jpg:
   16s.jpg:
   16z.jpg:
-
 
 coverimage: *COVER
 ---

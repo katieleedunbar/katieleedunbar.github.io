@@ -10,8 +10,7 @@ subsection: "performance"
 postimagedir: core
 photocredit: "Martina Mango: http://www.martinamagno.com/photography.htm"
 gallery: 
-  &COVER 
-coverimage: *COVER IMG_2994.jpg:
+  &COVER IMG_2994.jpg:
   IMG_2936.jpg:
   IMG_2938.jpg:
   IMG_2940.jpg:
@@ -30,6 +29,7 @@ coverimage: *COVER IMG_2994.jpg:
   IMG_2997.jpg:
   IMG_2998.jpg:
   IMG_2999.jpg:
+coverimage: *COVER
 ---
 
 Sound installation / Performance

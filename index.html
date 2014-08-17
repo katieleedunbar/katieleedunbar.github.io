@@ -10,7 +10,7 @@ title: Katie's upcoming
       {% if post.upcoming %}
       {% if post.layout == 'project' %}
         <li><div>{{ post.date | date_to_string }} &raquo; {{post.title}}</div><a href="{{ post.url }}">
-            <div class="project-thumbnail" style="background-image: url('{{site.content-root}}/postthumbs/{{post.postimagedir}}/{{ post.coverimage }}')"></div>
+            <div class="project-thumbnail" style="background-image: url('{{site.content-root}}/postimages/{{post.postimagedir}}/{{ post.coverimage }}')"></div>
         </a></li>
 
       {% else %}

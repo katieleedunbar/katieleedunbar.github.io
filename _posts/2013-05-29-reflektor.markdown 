@@ -9,16 +9,16 @@ subsection: "performance"
 postimagedir: reflektororignal
 photocredit: "Julián Roncal"
 gallery:
-  &COVER DSC_0088.jpg:
-  DSC_0095.jpg:
-  DSC_0098.jpg:
-  DSC_0107.jpg:
-  DSC_0109.jpg:
-  DSC_0112.jpg:
-  DSC_0113.jpg:
-  DSC_0114.jpg:
-  DSC_0115.jpg:
-  DSC_0116.jpg:
+  &COVER DSC_0088.JPG:
+  DSC_0095.JPG:
+  DSC_0098.JPG:
+  DSC_0107.JPG:
+  DSC_0109.JPG:
+  DSC_0112.JPG:
+  DSC_0113.JPG:
+  DSC_0114.JPG:
+  DSC_0115.JPG:
+  DSC_0116.JPG:
 
 coverimage: *COVER
 ---
