@@ -1,0 +1,16 @@
+---
+layout: project
+
+title: "Rocking"
+date:   2013-03-10
+categories: 
+section: "art"
+subsection: "performance"
+postimagedir: rocking
+photocredit: 
+gallery:
+  &COVER 216385_525763377458967_690806074_n.jpg  247492_525763050792333_678135836_n.jpg  936421_525763427458962_1009191000_n.jpg  946998_525763030792335_979679178_n.jpg  DSC_0032.JPG
+coverimage: *COVER 
+---
+
+[For more images and info](https://www.facebook.com/punktywidzenia.festiwalsztukiwideo)

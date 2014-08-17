@@ -1,0 +1,26 @@
+---
+layout: project
+
+title:  "Common"
+date:   2014-09-06 
+categories: 
+section: "Up and coming"
+subsection: "performance"
+postimagedir: common
+photocredit: 
+gallery:
+  &COVER turmkrane-spitzenausleger-20632-3807121.jpg
+  Survival Flyer Programm.pdf
+coverimage: *COVER
+---
+Come and see my next performance as apart of the [Survival festival](http://www.openspace32.de/index2_eng.php) At: [Blo-Ateliers](http://blo-ateliers.de/kunst-aktionen/performance-festivals/survival-performance-festival/survival-international-performance-festival-2014/) On Saturday the 6th September at 9pm.
+
+Common
+to survive is to continue living
+just
+Life-
+is to live without fear of Survival
+
+A political and personal struggle
+I am not interested in getting to the top
+I want to over throw the top
