@@ -37,29 +37,29 @@ coverimage: *COVER
 ---
 
 {% gallery galleryname %}
-DSC_0061.jpg 
-906258_758686540829639_8164011511534386341_o.jpg
-10257717_758686304162996_4743500610054432680_o.jpg
-DSC_0004.jpg
-DSC_0005.jpg
-DSC_0006.jpg
-DSC_0007.jpg
-DSC_0008.jpg
-DSC_0012.jpg
-DSC_0016.jpg
-DSC_0017.jpg
-DSC_0040.jpg
-DSC_0045.jpg
-DSC_0046.jpg
-DSC_0053.jpg
-DSC_0055.jpg
-DSC_0056.jpg
-DSC_0058.jpg
-DSC_0060.jpg
-DSC_0067.jpg
-DSC_0075.jpg
-DSC_0079.jpg
-DSC_0081.jpg
+contol1stofmay/DSC_0061.jpg 
+contol1stofmay/906258_758686540829639_8164011511534386341_o.jpg
+contol1stofmay/10257717_758686304162996_4743500610054432680_o.jpg
+contol1stofmay/DSC_0004.jpg
+contol1stofmay/DSC_0005.jpg
+contol1stofmay/DSC_0006.jpg
+contol1stofmay/DSC_0007.jpg
+contol1stofmay/DSC_0008.jpg
+contol1stofmay/DSC_0012.jpg
+contol1stofmay/DSC_0016.jpg
+contol1stofmay/DSC_0017.jpg
+contol1stofmay/DSC_0040.jpg
+contol1stofmay/DSC_0045.jpg
+contol1stofmay/DSC_0046.jpg
+contol1stofmay/DSC_0053.jpg
+contol1stofmay/DSC_0055.jpg
+contol1stofmay/DSC_0056.jpg
+contol1stofmay/DSC_0058.jpg
+contol1stofmay/DSC_0060.jpg
+contol1stofmay/DSC_0067.jpg
+contol1stofmay/DSC_0075.jpg
+contol1stofmay/DSC_0079.jpg
+contol1stofmay/DSC_0081.jpg
 {% endgallery %}
 
 A microscope on a bigger topic:  
